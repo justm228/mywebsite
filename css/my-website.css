@@ -1,0 +1,28 @@
+*{
+    background-color: antiquewhite;
+}
+
+p{
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+
+}
+.myhobby{
+    border: 10px double greenyellow;
+    text-align: center;
+}
+p.paragraph{
+    border: 2px solid salmon;
+}
+ul.circle{
+    list-style-type: circle;
+}
+
+.question{
+    color: goldenrod;
+}
+h5{
+    text-align: center;
+}
